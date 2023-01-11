@@ -16,7 +16,7 @@ public class Department {
     private String departmentAdress;
     private String departmentCode;
 
-    Integer name;
+
 
 
 }
